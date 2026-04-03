@@ -1,2 +1,15 @@
-# Customer-Segmentation-Analysis
-This project focuses on analyzing customer data from a retail mall to identify distinct customer groups based on their purchasing behavior. Using Python-based data analysis and machine learning techniques, the project uncovers valuable insights into customer demographics, spending patterns, and income distribution.
+Project Overview
+
+This project focuses on analyzing mall customer data to identify distinct customer segments based on their demographics and purchasing behavior. The goal is to help businesses understand their customers better and make data-driven decisions for targeted marketing and improved customer engagement.
+
+Using Python, data analysis, and machine learning techniques, this project performs end-to-end analysis including data preprocessing, exploratory data analysis (EDA), and customer segmentation using clustering.
+
+🎯 Problem Statement
+
+Businesses often struggle to understand customer behavior and target the right audience. This project aims to:
+
+> Identify different types of customers
+
+> Analyze spending patterns
+
+> Segment customers for targeted marketing strategies
