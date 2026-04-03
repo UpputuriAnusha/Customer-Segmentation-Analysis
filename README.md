@@ -61,3 +61,23 @@ The dataset contains the following features:
 > Identified optimal number of clusters using Elbow Method
 
 > Segmented customers into meaningful groups
+🤖 Machine Learning Model
+
+> Algorithm Used: K-Means Clustering
+
+> Type: Unsupervised Learning
+📊 Key Insights
+
+> Identified high-value customers with high spending scores
+
+> Found that income does not always correlate with spending
+
+> Discovered distinct customer groups such as:
+
+> High Income – High Spending (VIP Customers)
+
+> High Income – Low Spending (Potential Customers)
+
+> Low Income – High Spending (Impulse Buyers)
+
+> Low Income – Low Spending (Low Engagement Customers)
