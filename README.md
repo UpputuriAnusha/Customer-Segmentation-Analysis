@@ -66,6 +66,7 @@ The dataset contains the following features:
 > Algorithm Used: K-Means Clustering
 
 > Type: Unsupervised Learning
+
 📊 Key Insights
 
 > Identified high-value customers with high spending scores
@@ -81,3 +82,30 @@ The dataset contains the following features:
 > Low Income – High Spending (Impulse Buyers)
 
 > Low Income – Low Spending (Low Engagement Customers)
+
+💼 Business Impact
+
+This analysis helps businesses:
+
+> Target the right customers with personalized marketing
+
+> Improve customer retention strategies
+
+> Increase overall revenue
+
+> Make data-driven decisions
+
+🛠️ Technologies Used
+> Python
+
+> Pandas
+
+> Matplotlib
+
+> Seaborn
+
+> Scikit-learn
+
+🙌 Conclusion
+
+This project demonstrates how data analysis and machine learning can be used to solve real-world business problems. It highlights the importance of customer segmentation in improving marketing strategies and business growth.
