@@ -13,3 +13,51 @@ Businesses often struggle to understand customer behavior and target the right a
 > Analyze spending patterns
 
 > Segment customers for targeted marketing strategies
+
+📂 Dataset Information
+
+The dataset contains the following features:
+
+> CustomerID → Unique identifier for each customer
+
+> Gender → Male/Female
+
+> Age → Age of the customer
+
+> Annual Income (k$) → Customer income
+
+> Spending Score (1-100) → Score assigned based on customer behavior
+
+⚙️ Project Workflow
+
+1️⃣ Data Cleaning
+
+> Checked for missing values
+
+> Removed duplicates
+
+> Ensured proper data types
+
+2️⃣ Exploratory Data Analysis (EDA)
+
+> Analyzed distribution of Age, Income, and Spending Score
+
+> Performed gender-based analysis
+
+> Identified relationships using correlation
+
+3️⃣ Data Visualization
+
+> Histograms and distribution plots
+
+> Scatter plots (Income vs Spending Score)
+
+> Pair plots for feature relationships
+
+4️⃣ Customer Segmentation (Core Part 🔥)
+
+> Applied K-Means Clustering
+
+> Identified optimal number of clusters using Elbow Method
+
+> Segmented customers into meaningful groups
